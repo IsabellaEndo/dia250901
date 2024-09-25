@@ -1,0 +1,32 @@
+package exemploPoo;
+
+public enum nomes {
+	
+	MARIA,
+	ISA,
+	EDUARDO,
+	DHARANA,
+	THARYNE,
+	GABRIEL,
+	JOABE,
+	PEDRO,
+	EDUARDA,
+	LORENA,
+	LUISA,
+	MARLENE,
+	ROGERIO,
+	GUSTAVO,
+	OTAVIO,
+	CLARA,
+	JAIR,
+	CARLOS,
+	JOANA,
+	CAMILA,
+	PAULO
+	
+
+	
+
+	}
+
+

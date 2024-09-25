@@ -1,0 +1,35 @@
+package exemploPoo;
+
+public enum Produtos {
+	Arroz,
+	Feijão,
+	Óleo,
+	Azeite,
+	Vinagre,
+	Açúcar,
+	Milho,
+	Farinha,
+	Fermento,
+	Aveia,
+	Cereais,
+	Extrato,
+	Macarrão,
+	Queijo,
+	Enlatados,
+	Conservas,
+	Bolachas,
+	Petiscos,
+	Pães,
+	Maionese,
+	Ketchup,
+	Mostarda,
+	Frios,
+	Manteiga,
+	Requeijão,
+	Geleias,
+	Mel,
+	Sal,
+	Temperos,
+	Especiarias
+
+}

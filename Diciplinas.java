@@ -1,0 +1,22 @@
+package exemploPoo;
+
+public enum Diciplinas {
+	
+	MATEMATICA,
+	PORTUGUES,
+	HISTORIA,
+	GEOGRAFIA,
+	BIOLOGIA,
+	QUIMICA,
+	FILOSOFIA,
+	SOCIOLOGIA,
+	INGLES,
+	EDUCAÇAO_FISICA,
+	ARTE,
+	FISICA
+
+		
+
+	}
+
+
